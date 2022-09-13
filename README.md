@@ -10,7 +10,7 @@
 
 3. perspective transform
 
-   <img src="/Volumes/Joy/Code/ImageScanningAndStitching/img/perspectiveTransform.jpg" alt="perspectiveTransform" style="zoom:8%;" />
+   <img src="./img/perspectiveTransform.jpg" alt="perspectiveTransform" style="zoom:8%;" />
 
 4. result
 
